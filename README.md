@@ -1,4 +1,4 @@
-# 🏡 House Price Prediction using Linear Regression
+#  House Price Prediction using Linear Regression
 
 This project builds a **Linear Regression model** to predict house prices based on selected features from the Ames Housing dataset.  
 It uses **GrLivArea (Living Area)**, **BedroomAbvGr (Bedrooms Above Ground)**, and **FullBath (Bathrooms)** as predictors for the target variable **SalePrice**.
